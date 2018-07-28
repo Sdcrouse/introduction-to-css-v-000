@@ -38,7 +38,7 @@ structure, hierarchy, and meaning &mdash; the "marking-up" of content.
 Questions in the mind of an HTML author are:
 
 * Is it best to list these members' names with numbers, or bullets?
-* Does this menu belong in in the navigation in the header?
+* Does this menu belong in the navigation in the header?
 * Should this additional reference be an aside, or a separate section?
 
 These questions deal with structure, hierarchy, and meaning, which are
@@ -125,7 +125,7 @@ and <h1 class='important-topic'>)
 .important-topic
 
 /*
-select all elements that have the 'welcome-message' classname (e.g. <p class='helpful-hint'>
+select all elements that have the 'helpful-hint' classname (e.g. <p class='helpful-hint'>
 and <p class='helpful-hint'>)
 */
 .helpful-hint
@@ -167,7 +167,7 @@ A CSS property name with a CSS property value is a **CSS declaration**.
 To apply a CSS declaration like `color: blue` to a specific HTML
 element, you need to combine your CSS declaration with a CSS selector. The
 association between one or more CSS declarations and a CSS selector is called a
-**CSS declaration block**. CSS declarations (one or more) that applied to a
+**CSS declaration block**. CSS declarations (one or more) that apply to a
 specific selector are wrapped by curly braces (`{ }`).  Each declaration inside
 a declaration block **must** be separated by a semi-colon (`;`).
 
