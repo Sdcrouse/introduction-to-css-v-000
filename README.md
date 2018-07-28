@@ -130,6 +130,7 @@ and <p class='helpful-hint'>)
 */
 .helpful-hint
 ```
+[Class selectors documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors)
 
 You can also use the `id` selector to style elements. However, **there should
 be only one element with a given id** in an HTML document. This can make
